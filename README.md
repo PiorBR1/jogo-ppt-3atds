@@ -16,3 +16,5 @@ Para executar o projeto, vocÃª precisa ter o Vscode e o Node instalado em sua mÃ
 
 ## Link Do Video
 
+https://youtu.be/tV1mczndJG0
+
