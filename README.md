@@ -1,6 +1,6 @@
 # Jogo de Pedra, Papel e Tesoura
 
-**Integrantes:**
+# Integrantes:
 - Raul B. Fernandes N:33
 - Vinicius M. Paresoto N:38
 - Bruno R. Barbosa N:6
